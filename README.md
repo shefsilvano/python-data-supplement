@@ -8,8 +8,9 @@ Along with these exercises, I am simultaneously enhancing my version control/ Gi
 
 # Logs 
 **March 8 2026**<br>
-numpy-exer.py contains Gemini-constructued beginner-friendly exercises in using the numpy package and basic list manipuation.
+- numpy-exer.py contains Gemini-constructued beginner-friendly exercises in using the numpy package and basic list manipuation. 
+
 **March 9 2026**<br>
-Created new branch data-manipulation. <br>
-Gemini prompt: Create beginner to intermediate python exercises where numpy and pandas packages will be used. Mix in some built-in methods for solutions that answer real-world problems and solving skills necessary in data manipulation practiced in IT infra or banking companies. Provide the datasets to be used and necessary context that will be useful for solving the problem
+- Created new branch data-manipulation. <br>
+- Gemini prompt: Create beginner to intermediate python exercises where numpy and pandas packages will be used. Mix in some built-in methods for solutions that answer real-world problems and solving skills necessary in data manipulation practiced in IT infra or banking companies. Provide the datasets to be used and necessary context that will be useful for solving the problem
             
